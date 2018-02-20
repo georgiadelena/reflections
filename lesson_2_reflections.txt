@@ -16,4 +16,8 @@ The would be helpful when you want to also want to commit a different game mode,
 
 How do the diagrams help you visualize the branch structure?
 
-The help you understand the structure and view which commits come after or before a branch change.
+They help you understand the structure and view which commits come after or before a branch change.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+We merge one branch into another one and a commit is made. We then see all commits in the diagram with their timestamp.
