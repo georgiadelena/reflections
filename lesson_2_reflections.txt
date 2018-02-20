@@ -13,3 +13,7 @@ You can add one file at a time to the staging area and you can also check the di
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 The would be helpful when you want to also want to commit a different game mode, for example an easy mode, a beta version, or a different language version.
+
+How do the diagrams help you visualize the branch structure?
+
+The help you understand the structure and view which commits come after or before a branch change.
