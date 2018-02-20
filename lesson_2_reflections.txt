@@ -21,3 +21,7 @@ They help you understand the structure and view which commits come after or befo
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 We merge one branch into another one and a commit is made. We then see all commits in the diagram with their timestamp.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging saves time, but when there are conflicts, you need to see which version (of the two conflicting versions) of code you want to keep, so manually merging makes sense.
