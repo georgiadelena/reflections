@@ -5,3 +5,11 @@ A .git file is made. This is how you can make commits and track them.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The working directory is the directory you're working on, where your files are located. The staging area is an intermediate area where you can add files one at a time. When you're ready to commit, Git bundles the entire contents of the staging area into a single commit and adds that to the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can add one file at a time to the staging area and you can also check the difference with the most recent commit with git diff --staged
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+The would be helpful when you want to also want to commit a different game mode, for example an easy mode, a beta version, or a different language version.
