@@ -9,3 +9,7 @@ Because I might want to have a different version on my computer and I'd like to 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 You can fork  someone's repository on GitHub, which means that you get your own copy on your GitHub profile. Then, you can either edit it from there, or clone it to your computer, so that you can have your own version. Cloning means getting a copy on your computer from GitHub. Branches have to do with different versions within your repository (regarding commits).
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Avoiding conflicts when pulling.
