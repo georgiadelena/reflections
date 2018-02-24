@@ -13,3 +13,7 @@ You can fork  someone's repository on GitHub, which means that you get your own 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Avoiding conflicts when pulling.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be hard to track the history of changes with files being sent here and there to each collaborator. Merging files would be crazy. However, you have to know the exact commands to use Git/GitHub.
